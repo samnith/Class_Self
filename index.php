@@ -1,4 +1,5 @@
 <?php
-$name="Samniht";
+$surname="Samniht";
 $age=24;
 $address="Cambodia";
+$height=1.73;
